@@ -1,6 +1,6 @@
 Option Explicit
-Const FOLDER_SAVED As String = "C:\SETA\"
-Const SOUCE_FILE_PATH As String = "C:\SETA\Data\Prog PoE.xlsx"
+Const FOLDER_SAVED As String = "dir of docu"
+Const SOUCE_FILE_PATH As String = "dir of db"
 Sub MailMerge_Automation()
 Dim MainDoc As Document, TargetDoc As Document
 Dim recordNumber As Long, totalRecord As Long
